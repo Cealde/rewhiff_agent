@@ -1,6 +1,6 @@
 let buttonCount = 0;
 
-const presetValues = ['vyse', 'sage', 'cypher', 'killjoy', 'deadlock', 'chamber', 'omen', 'brimstone', 'clove', 'astra', 'harbor', 'viper', 'reyna', 'raze', 'iso', 'neon', 'yoru', 'phoenix', 'jett', 'gekko', 'kay/o', 'breach', 'fade', 'sova', 'skye'];
+const presetValues = ['vyse', 'sage', 'cypher', 'killjoy', 'deadlock', 'chamber', 'omen', 'brimstone', 'clove', 'astra', 'harbor', 'viper', 'reyna', 'raze', 'iso', 'neon', 'yoru', 'phoenix', 'jett', 'gekko', 'kay/o', 'breach', 'fade', 'sova', 'skye','tejo','waylay'];
 const usedValues = {}; // Track used values for each button
 
 document.getElementById('addButton').addEventListener('click', function () {
